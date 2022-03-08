@@ -1,7 +1,5 @@
-How to load GPA chart:
+# LalCalc — A GPA Chrome Extension
 
-```
-python3 gpa_scanner.py > gpas.txt
-```
+Weighted GPA calculator for Follett Aspen. GPA extension to calculate term grades for Follett Aspen using the 5.0 scale.
 
-Copy and paste the contents of gpas.txt into content.js
+Download: https://chrome.google.com/webstore/detail/lalcalc/ajhjggpfcgbnpfliabhdhbibdjgnakmf
