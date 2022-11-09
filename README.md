@@ -1,4 +1,4 @@
-# LalCalc — A GPA Chrome Extension
+# LalCalc — A GPA chrome extension built for Chelmsford Highschool
 
 Weighted GPA calculator for Follett Aspen. GPA extension to calculate term grades for Follett Aspen using the 5.0 scale.
 
